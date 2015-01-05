@@ -1,0 +1,8 @@
+# Maven outputs
+target/
+
+# Editor's files
+*.swp
+\#*\#
+*~
+
